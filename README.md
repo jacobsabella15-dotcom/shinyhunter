@@ -1,3 +1,1 @@
-# ShinyHunter
-
-A Shiny application for exploring the shiny hunting community and tools.
+# ShinyHunter Game\nWelcome to the ShinyHunter game! This is a simple web-based game where you can hunt for shiny Pokémon.\n\n## Files\n- `index.html`: The main HTML file for the game.\n- `style.css`: The stylesheet for the game.\n- `app.js`: The main JavaScript functionality.\n- `manifest.json`: Web app manifest file.\n- `sw.js`: Service worker file.\n

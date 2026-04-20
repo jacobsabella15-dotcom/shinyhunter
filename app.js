@@ -1,0 +1,1 @@
+// app.js\nconsole.log('ShinyHunter game is running!');

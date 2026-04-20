@@ -1,0 +1,1 @@
+self.addEventListener('install', function(event) {\n    console.log('Service worker installing...');\n});\n\nself.addEventListener('activate', function(event) {\n    console.log('Service worker activating...');\n});
